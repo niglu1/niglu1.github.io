@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.6f37998e.chunk.css",
-    "main.js": "./main.010c77a341364760e075.bundle.js",
-    "runtime~main.js": "./runtime~main.010c77a341364760e075.bundle.js",
-    "vendors~main.js": "./vendors~main.010c77a341364760e075.bundle.js",
+    "main.css": "./static/css/main.e48fba44.chunk.css",
+    "main.js": "./main.599cf236ff925e283c80.bundle.js",
+    "runtime~main.js": "./runtime~main.599cf236ff925e283c80.bundle.js",
+    "vendors~main.js": "./vendors~main.599cf236ff925e283c80.bundle.js",
     "iframe.html": "./iframe.html",
-    "precache-manifest.bfe2321e2bbd232679ca0eba1e003ec6.js": "./precache-manifest.bfe2321e2bbd232679ca0eba1e003ec6.js",
+    "precache-manifest.e8b3caf0ae4245cc0643a659c396da82.js": "./precache-manifest.e8b3caf0ae4245cc0643a659c396da82.js",
     "service-worker.js": "./service-worker.js",
     "static/media/placeholder_1400x1164.jpg": "./static/media/placeholder_1400x1164.a73385e3.jpg",
     "static/media/placeholder_1920x1080.jpg": "./static/media/placeholder_1920x1080.4c706998.jpg",
     "static/media/placeholder_2_1920x1080.jpg": "./static/media/placeholder_2_1920x1080.d828e0e6.jpg",
-    "vendors~main.010c77a341364760e075.bundle.js.LICENSE.txt": "./vendors~main.010c77a341364760e075.bundle.js.LICENSE.txt"
+    "vendors~main.599cf236ff925e283c80.bundle.js.LICENSE.txt": "./vendors~main.599cf236ff925e283c80.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.010c77a341364760e075.bundle.js",
-    "vendors~main.010c77a341364760e075.bundle.js",
-    "static/css/main.6f37998e.chunk.css",
-    "main.010c77a341364760e075.bundle.js"
+    "runtime~main.599cf236ff925e283c80.bundle.js",
+    "vendors~main.599cf236ff925e283c80.bundle.js",
+    "static/css/main.e48fba44.chunk.css",
+    "main.599cf236ff925e283c80.bundle.js"
   ]
 }
